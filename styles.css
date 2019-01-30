@@ -1,0 +1,50 @@
+.heading{
+        font-family: Aclonica;
+        text-align: center;
+}
+
+.button{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+p{
+    font-family:Shojumaru;
+    text-align: center;
+}
+
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.img4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.img5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.img6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
